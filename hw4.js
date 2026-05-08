@@ -680,7 +680,7 @@ const handleOutgoingMessage = (e) => {
     setTimeout(() => {
     const messageContent = 
 `
-    <img src="../images/clinical_logo.png" class="bot-avatar" width="50" height="50">
+    <img src="clinical_logo.png" class="bot-avatar" width="50" height="50">
     <div class="message-text">
         <div class="thinking-indicator">
             <div class="dot"></div>
